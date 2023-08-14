@@ -1,0 +1,56 @@
+AED	UAE Dirham
+AMD	Armenian Dram
+ARS	Argentine Peso
+AUD	Australian Dollar
+AZN	Azerbaijani Manat
+BIF	Burundi Franc
+BRL	Brazilian Real
+BTC	Bitcoin
+CAD	Canadian Dollar
+CDF	Congolese Franc
+CHF	Swiss Franc
+CNY	Chinese Yuan
+DKK	Danish Krone
+EGP	Egyptian Pound
+ETB	Ethiopian Birr
+EUR	Euro
+FJD	Fijian Dollar
+GBP	British Pound
+GHS	Ghanaian Cedi
+HKD	Hong Kong Dollar
+ILS	Israeli New Sheqel
+INR	Indian Rupee
+JMD	Jamaican Dollar
+JOD	Jordanian Dinar
+JPY	Japanese Yen
+KES	Kenyan Shilling
+KPW	North Korean Won
+KRW	South Korean Won
+KWD	Kuwaiti Dinar
+LYD	Libyan Dinar
+MXN	Mexican Peso
+NGN	Nigerian Naira
+NZD	New Zealand Dollar
+OMR	Omani Rial
+PKR	Pakistani Rupee
+QAR	Qatari Riyal
+RUB	Russian Ruble
+RWF	Rwandan Franc
+SGD	Singapore Dollar
+TND	Tunisian Dinar
+USD	United States Dollar
+VND	Vietnamese Dong
+WST	Samoan Tala
+XAF	Central African CFA Franc
+XAG	Silver (troy ounce)
+XOF	West African CFA Franc
+YER	Yemeni Rial
+ZAR	South African Rand
+ZMW	Zambian Kwacha
+ZWL	Zimbabwean Dolla
+
+
+
+
+
+
